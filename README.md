@@ -24,7 +24,10 @@ https://arxiv.org/abs/2401.00877
 https://csslc.github.io/project-CCSR/
 
 ### 🖼 Output
-
+![19](https://github.com/camenduru/CCSR-colab/assets/54370274/b60b5f75-76d0-4aea-9b9e-8800f7c1e1cb)
+![19](https://github.com/camenduru/CCSR-colab/assets/54370274/64ae6342-ac0e-47f9-8ccb-57cb079d5f4e)
+![49](https://github.com/camenduru/CCSR-colab/assets/54370274/fb3041ed-6f66-4fbf-b853-525ad14cf729)
+![49](https://github.com/camenduru/CCSR-colab/assets/54370274/e793cc06-b89c-45af-924a-ac468b0fb9a9)
 
 ### 🏢 Sponsor
 https://modelslab.com

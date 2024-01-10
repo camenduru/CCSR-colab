@@ -14,7 +14,7 @@
 | Kaggle | Info
 | --- | --- |
 [![open_in_kaggle_small](https://user-images.githubusercontent.com/54370274/228924833-17316feb-d0fe-4249-90ba-682930ba11e5.svg)](https://kaggle.com/camenduru/cc-sr) | ccsr_kaggle (Free Kaggle)
-[![open_in_kaggle_small](https://user-images.githubusercontent.com/54370274/228924833-17316feb-d0fe-4249-90ba-682930ba11e5.svg)](https://kaggle.com/camenduru/cc-sr) | ccsr_gradio_kaggle (Free Kaggle)
+[![open_in_kaggle_small](https://user-images.githubusercontent.com/54370274/228924833-17316feb-d0fe-4249-90ba-682930ba11e5.svg)](https://kaggle.com/camenduru/cc-sr-gradio) | ccsr_gradio_kaggle (Free Kaggle)
 
 ### 🧬 Code
 https://github.com/csslc/CCSR

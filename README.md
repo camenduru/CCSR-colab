@@ -7,6 +7,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/CCSR-colab/blob/main/CCSR_colab.ipynb) | CCSR_colab (High-RAM Pro Colab 😐)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/CCSR-colab/blob/main/CCSR_gradio_colab.ipynb) | CCSR_gradio_colab (High-RAM Pro Colab 😐)
 
 ## 🦆 Kaggle
 
